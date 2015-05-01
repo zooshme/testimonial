@@ -1,5 +1,5 @@
 var Handlebars = require('handlebars');
-var source = require('./templates/small-testimonial.hbs');
+var source = require('./templates/small-testimonial.html');
 
 var template = Handlebars.precompile(source);
 var data = {
