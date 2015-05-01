@@ -1,5 +1,5 @@
 {
-  "name": "zooshme-testimonial",
+  "name": "testimonial",
   "version": "0.0.1",
   "scripts": ["build/src/small-testimonial.js"]
 }
